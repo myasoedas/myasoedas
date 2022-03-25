@@ -35,7 +35,7 @@
 ### Люблю окна:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# Моя история
+<h2 align="center">Моя история</h2>
 
 <p>Всем привет!</p>
 <p>Меня зовут Александр.
