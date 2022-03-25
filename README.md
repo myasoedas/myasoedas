@@ -1,4 +1,4 @@
-<img src="https://disk.yandex.ru/i/9P8xVp7O4LHskQ" style="width:100%;">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ### Привет! 👋
