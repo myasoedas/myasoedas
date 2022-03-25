@@ -1,6 +1,6 @@
-![Описание картинки с котиком](http://placekitten.com/g/100/20.jpg)
+
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Студент-курса-Веб-разработчик-Яндекс-Практикум)](https://git.io/typing-svg)
 #
 
 ### Привет! 👋
