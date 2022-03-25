@@ -1,4 +1,4 @@
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <h1 align="center">Привет, Меня зовут <a target="_blank" href="https://t.me/alexproit">Александр</a> 
