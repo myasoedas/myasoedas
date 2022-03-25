@@ -32,7 +32,7 @@
 ### Люблю окна:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **myasoedas/myasoedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
