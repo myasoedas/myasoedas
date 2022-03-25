@@ -1,3 +1,5 @@
+![Я Frontend разработчик](https://github.com/myasoedas/myasoedas/blob/main/github01.jpg)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
@@ -34,7 +36,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Я Frontend разработчик](https://github.com/myasoedas/myasoedas/blob/main/github01.jpg)
+
 
 <!--
 **myasoedas/myasoedas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
