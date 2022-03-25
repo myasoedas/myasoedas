@@ -1,4 +1,4 @@
-![Я Frontend разработчик](https://github.com/myasoedas/myasoedas/blob/main/github01.jpg)
+![Я Frontend разработчик](https://github.com/myasoedas/myasoedas/blob/main/github003.jpg)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
