@@ -1,6 +1,8 @@
 
 #
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend_разработчик_React_HTML_CSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающий_Frontend_разработчик)](https://git.io/typing-svg)
+#
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Стек_тенологий_React_HTML_CSS)](https://git.io/typing-svg)
 #
 
 ### Привет! 👋
