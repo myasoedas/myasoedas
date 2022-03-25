@@ -1,4 +1,4 @@
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![asciicast](https://asciinema.org/a/42383.png)](https://asciinema.org/a/42383)
 
 ### Hi there 👋
 
