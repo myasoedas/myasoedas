@@ -1,4 +1,4 @@
-# <video width="320" height="240" autoplay><source src="001video.mp4" type="video/mp4">Ваш браузер не поддерживает video тэг.</video>
+[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
 
 ### Hi there 👋
 
