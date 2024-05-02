@@ -11,7 +11,7 @@
 ### Лендинг [Научиться учиться](http://79.174.86.211/how-to-learn/index.html) (верстка HTML, CSS анимации)
 ### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (верстка HTML, CSS, функционал на JavaScript)
 
-## Моё портфолио на [Tilda][4]:
+## Портфолио на [Tilda][4]:
 ### [Интернет магазин Luminarc](https://haidar.shop.tilda.ws/)
 ### [Интернет магазин - изделия ручной работы](https://www.kseniyapanina.ru/)
 ### [Свечи Декор](https://svechidecor.ru/)
