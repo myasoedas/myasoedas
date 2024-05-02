@@ -12,6 +12,7 @@
 ### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (верстка HTML, CSS, функционал на JavaScript)
 
 ## Портфолио на [Tilda][4]:
+### [Лендинг - Школа Бариста](https://baristaschoolmsk.tilda.ws/)
 ### [Лендинг - Срочный выкуп квартир](https://srochnivikupkvartir.tilda.ws/)
 ### [Интернет магазин - Посуда Luminarc](https://haidar.shop.tilda.ws/)
 ### [Интернет магазин - Ксения Панина](https://www.kseniyapanina.ru/)
