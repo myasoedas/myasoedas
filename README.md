@@ -9,7 +9,7 @@
 
 ## Портофолио по верстке (HTML, CSS, JavaScript):
 ### Лендинг [Научиться учиться](http://79.174.86.211/how-to-learn/index.html) (верстка HTML, CSS анимации)
-### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (верстка HTML, CSS, функционал на JavaScript)
+### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (Функционал на JavaScript)
 
 ## Портфолио на [Tilda][4]:
 ### [Лендинг - Школа Бариста](https://baristaschoolmsk.tilda.ws/)
