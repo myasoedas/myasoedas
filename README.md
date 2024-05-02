@@ -5,20 +5,20 @@
 # Привет, Меня зовут Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 ## Я веб разработчик
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%D0%AF+Frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.;%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%B0%D1%8E+%D0%B2+HTML%2C+CSS%2C+JSX.;%D0%9F%D0%B8%D1%88%D1%83+%D0%BA%D0%BE%D0%B4+%D0%BD%D0%B0+React.;%E2%9A%A1%D0%98%D1%89%D1%83+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.)](https://git.io/typing-svg)
-### Моё [резюме](https://hh.ru/resume/b57a7987ff0d1fd83b0039ed1f57757259644e) на hh.ru
+## Моё [резюме](https://hh.ru/resume/b57a7987ff0d1fd83b0039ed1f57757259644e) на hh.ru
 
-### Портофолио по верстке (HTML, CSS, JavaScript):
+## Портофолио по верстке (HTML, CSS, JavaScript):
 ### Лендинг [Научиться учиться](http://79.174.86.211/how-to-learn/index.html) (верстка HTML, CSS анимации)
 ### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (верстка HTML, CSS, функционал на JavaScript)
 
-### Моё портфолио на [Tilda][4]:
+## Моё портфолио на [Tilda][4]:
 ### [Интернет магазин Luminarc](https://haidar.shop.tilda.ws/)
 ### [Интернет магазин - изделия ручной работы](https://www.kseniyapanina.ru/)
 ### [Свечи Декор](https://svechidecor.ru/)
 
 ### Лендинг [Добровольцы Краснознаменска](http://79.174.86.211/volunteers/index.html) (волонтерский проект в ковид)
 
-### Мои контакты: [Telegram][2], [VK][3]
+## Мои контакты: [Telegram][2], [VK][3]
 
 #
 ### Верстаю:
