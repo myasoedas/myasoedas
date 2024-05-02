@@ -9,9 +9,9 @@
 ## Портофолио по верстке (HTML, CSS, JavaScript):
 ### Лендинг [Путешествие](http://79.174.86.211/traveling-in-russia/index.html) (Адаптивная верстка: Grid, Flexbox, @media)
 ### Лендинг [Научиться учиться](http://79.174.86.211/how-to-learn/index.html) (Верстка HTML, CSS анимации)
-### Игра [Синий квадрат](http://79.174.86.211/game/index.html) (ванильный JavaScript)
-### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (Функционал на JavaScript)
 ### Лендинг [Портфолио](http://79.174.86.211/four-layout-rules/index.html) (Верстка HTML, CSS) 
+### Игра [Синий квадрат](http://79.174.86.211/game/index.html) (ванильный JavaScript)
+### Игра [Прокрастинация](http://79.174.86.211/procrastination/index.html) (Функционал на JavaScript)
 
 ## Портфолио на [Tilda][4]:
 ### [Лендинг - Школа Бариста](https://baristaschoolmsk.tilda.ws/)
