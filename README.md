@@ -12,9 +12,9 @@
 ### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (верстка HTML, CSS, функционал на JavaScript)
 
 ## Портфолио на [Tilda][4]:
-### [Интернет магазин Luminarc](https://haidar.shop.tilda.ws/)
+### [Интернет магазин - Luminarc](https://haidar.shop.tilda.ws/)
 ### [Интернет магазин - изделия ручной работы](https://www.kseniyapanina.ru/)
-### [Свечи Декор](https://svechidecor.ru/)
+### [Интернет магазин - Свечи Декор](https://svechidecor.ru/)
 
 ### Лендинг [Добровольцы Краснознаменска](http://79.174.86.211/volunteers/index.html) (волонтерский проект в ковид)
 
