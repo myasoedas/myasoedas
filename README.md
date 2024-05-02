@@ -8,8 +8,9 @@
 ## Моё [резюме](https://hh.ru/resume/b57a7987ff0d1fd83b0039ed1f57757259644e) на hh.ru
 
 ## Портофолио по верстке (HTML, CSS, JavaScript):
-### Лендинг [Научиться учиться](http://79.174.86.211/how-to-learn/index.html) (верстка HTML, CSS анимации)
+### Лендинг [Научиться учиться](http://79.174.86.211/how-to-learn/index.html) (Верстка HTML, CSS анимации)
 ### Веб приложение [Прокрастинация](http://79.174.86.211/procrastination/index.html) (Функционал на JavaScript)
+### Лендинг [Портфолио](http://79.174.86.211/four-layout-rules/index.html) (Верстка HTML, CSS) 
 
 ## Портфолио на [Tilda][4]:
 ### [Лендинг - Школа Бариста](https://baristaschoolmsk.tilda.ws/)
