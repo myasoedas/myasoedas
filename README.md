@@ -3,7 +3,7 @@
 
 
 # Привет, Меня зовут Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-## Я Full Stack на Django. С апреля 2024 г. прохожу курс: Инженер Машинного обучения в Яндекс Практикум.
+## ML инженер, Full Stack разработчик на Django. Верстаю по БЭМ в стеке: HTML, CSS, JS. Имею опыт работы с Wordpress и Tilda. Пишу промты для ChatGPT.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%D0%AF+FullStack+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.;%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%B0%D1%8E+%D0%B2+HTML%2C+CSS%2C+JSX.;%D0%9F%D0%B8%D1%88%D1%83+%D0%BA%D0%BE%D0%B4+%D0%BD%D0%B0+React.;%E2%9A%A1%D0%98%D1%89%D1%83+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83.)](https://git.io/typing-svg)
 
 ## Мои контакты: [Telegram][2], [VK][3]
